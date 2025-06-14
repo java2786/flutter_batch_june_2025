@@ -1,0 +1,29 @@
+void main(){
+  int a = 9;
+  int b = 13;
+  int c = 8;
+
+  // find greatest num
+  // if(a>b){
+  //   if(a>c){
+  //     print("$a is largest number");
+  //   } else {
+  //     print("$c is largest number");
+  //   }
+  // } else {
+  //   if(b>c){
+  //     print("$b is largest number");
+  //   } else {
+  //     print("$c is largest number");
+  //   }
+  // }
+
+
+  if(a>b && a>c){
+      print("$a is largest number");
+  } else if(b>a && b > c){
+      print("$b is largest number");
+  } else {
+      print("$c is largest number");
+  }
+}
