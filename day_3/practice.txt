@@ -1,0 +1,44 @@
+1. Problem 1
+Ramesh's Restaurant
+dosa - Rs. 80
+idli - Rs. 35
+vada - Rs. 20
+
+Mahesh enters restaurant, and orders 5 dosa, 10 idli and 10 vada.
+
+quantity - user input
+
+======= Welcome to visit Ramesh's Restaurant ========
+Dosa quantity 5 * Rs. 80 = 400
+Idli quantity 10 * Rs. 35 = 350
+Vada quantity 10 * Rs. 20 = 200
+
+Total bill: Rs. 950
+
+
+2. Problem
+Electricity Bill 
+    First 100 units will be charged at Rs. 1.5 per unit
+    Second 100 units will be charged at Rs. 2.5 per unit
+    Beyond 200 units, charge will be Rs 3.5 per unit
+
+Enter consumed units: 250
+Your Electricity Bill Amount: 150 + 250 + 175 = 575
+
+
+Loops
+3. 3 digit num, sum all the digits = 529
+4. n digit num, sum all the digits = 529-16, 85-13, 23456-20
+
+5. n digit num, reverse number 
+    int num = 5623;
+    ouput -> 3265
+
+6. find if given number is palindrome
+    left = right = same
+    nitin, mam, racecar
+    121, 32423, 2332
+
+7. Find if given number is prime or not
+
+8. Find all prime numbers from 1 to 100
