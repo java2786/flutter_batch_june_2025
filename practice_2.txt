@@ -1,0 +1,37 @@
+1. Even or Odd - done
+2. Voting/License Eligibility - done
+3. Find given number is positive, negative or zero - done 
+4. Find the largest of 2, 3 number - done 
+5. Devide check - 15, 3 - done
+6. Grade system - done
+7. Password check - enter pwd and confirm pwd 
+8. Leap year check - 2025
+
+9. Bill Calculator
+10. Simple Calculator
+11. Trafic light signal
+
+12. Atm machine
+    default pin = 1234
+13. Find if given sides are of a right triangle => H2 = B2 + P2
+14. Temprature - 40
+
+15. Find if number has 3 digits - 4567 - solution 1
+16. print 1 - N 
+17. Sum 1 - N 
+18. Table 
+19. Factorial 
+20. count digits
+
+15. Find if number has n digits - 4567 - solution 2
+21. reverse  -> palindrom (nitin, kanak, madam, mam, 12321, 45254)
+22. sum all the digits, sum of squares of all digits
+23. given number is a prime number
+    find all the prime numbers from 1 to N
+24. FizzBuzz Game 
+    Leetcode - 412. Fizz Buzz
+25. 1 - N 
+    print squares, print cubes, sum of all squares,...
+
+    1 - 5
+    55 
