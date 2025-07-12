@@ -1,0 +1,9 @@
+Count digits in given number
+reverse a number
+
+sum all the digits
+sum of squares of all digits
+palindrom (nitin, kanak, madam, mam, 12321, 45254)
+
+
+armstrong, strong, harshad - number 
