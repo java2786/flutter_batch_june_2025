@@ -8,6 +8,5 @@ void main(){
     result = (result*10)+lastDigit;
     print("LastDigit: $lastDigit, CurrentNum: $num, Result: $result");
   }
-    
   
 }

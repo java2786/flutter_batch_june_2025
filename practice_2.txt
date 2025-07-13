@@ -21,17 +21,14 @@
 17. Sum 1 - N 
 18. Table 
 19. Factorial 
-20. count digits
-
-15. Find if number has n digits - 4567 - solution 2
+20. Count digits in given number
 21. reverse  -> palindrom (nitin, kanak, madam, mam, 12321, 45254)
 22. sum all the digits, sum of squares of all digits
+
 23. given number is a prime number
     find all the prime numbers from 1 to N
 24. FizzBuzz Game 
     Leetcode - 412. Fizz Buzz
+
 25. 1 - N 
     print squares, print cubes, sum of all squares,...
-
-    1 - 5
-    55 
