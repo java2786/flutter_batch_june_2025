@@ -1,0 +1,14 @@
+Save 4 books
+    Ironman, Superman, Spiderman, WondarWoman
+
+Press 1 to see details of Ironman 
+Press 2 to see details of Superman
+Press 3 to see details of Spiderman
+Press 4 to see details of WondarWoman
+
+choice = 2
+
+Book name: Superman
+Book price: 299
+Book author: Clark
+...
