@@ -1,0 +1,10 @@
+Set => 
+Create a set of food items for a restaurant.
+
+Create menu of 3 restaurants and find common items.
+
+Map=>
+Create a map with item name and price, print all the items
+
+Create a map for state-capital.
+
