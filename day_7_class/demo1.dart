@@ -1,5 +1,5 @@
 class Actor{
-  String ?name; 
+  String ?name;
   String dob = "01/01/2000"; 
   int movies_released_count = 0;
 }
